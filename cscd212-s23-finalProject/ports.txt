@@ -1,0 +1,18 @@
+USA, San Diego CA
+USA, San Francisco CA
+USA, Seattle WA
+USA, Galveston TX
+USA, Miami FL
+USA, Kodiak AK
+USA, Juneau AK
+Bahamas, Nassau
+Bahamas, Princess Cay
+Bahamas, Castaway Cay
+Jamaica, Falmouth
+Jamaica, Montego Bay
+Jamaica, Port Royal
+Mexico, Cabo San Lucas
+Mexico, Cozumel
+Mexico, Mazatlan
+Mexico, Puerto Vallarta
+Mexico, Costa Maya
